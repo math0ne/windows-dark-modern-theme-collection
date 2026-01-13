@@ -1,0 +1,25 @@
+{
+  "name": "Dark Modern",
+  "background": "#1F1F1F",
+  "foreground": "#CCCCCC",
+  "cursorColor": "#CCCCCC",
+  "selectionBackground": "#264F78",
+
+  "black": "#1E1E1E",
+  "red": "#ce9178",
+  "green": "#4EC9B0",
+  "yellow": "#DCDCAA",
+  "blue": "#569cd6",
+  "purple": "#C586C0",
+  "cyan": "#9CDCFE",
+  "white": "#CCCCCC",
+
+  "brightBlack": "#6E7681",
+  "brightRed": "#F85149",
+  "brightGreen": "#2EA043",
+  "brightYellow": "#d7ba7d",
+  "brightBlue": "#4FC1FF",
+  "brightPurple": "#C586C0",
+  "brightCyan": "#9CDCFE",
+  "brightWhite": "#FFFFFF"
+}

@@ -1,0 +1,22 @@
+{
+	"name": "windows-dark-modern-theme",
+	"displayName": "Windows Dark Modern Theme",
+	"description": "VSCode Dark Modern theme fork - consolidated into a single file",
+	"version": "1.0.0",
+	"publisher": "local",
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Windows Dark Modern",
+				"uiTheme": "vs-dark",
+				"path": "./themes/windows-dark-moden.json"
+			}
+		]
+	}
+}
